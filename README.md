@@ -4,6 +4,8 @@
 
 <p>Este repositório foi criado como desafio do curso de Git/Github proposto no bootcamp everis New Talents Java pela Digital Innovation One.</p>
 
+<img src="https://hermes.digitalinnovation.one/courses/badge/bdcad69a-ad20-4777-9838-c6861d116f04.png" high="150px" width="150px">
+Boas-vindas ao Bootcamp everis New Talents Java
 
 <img src="https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png" high="150px" width="150px">
 Bem-vindo à DIO
