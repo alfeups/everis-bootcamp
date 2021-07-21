@@ -12,7 +12,7 @@ Bem-vindo à DIO
 
 Lógica de Programação Essencial
 
-<a href="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/README.md">Aprenda o que são Estrutura de Dados e Algoritmos</a>
+Aprenda o que são Estrutura de Dados e Algoritmos
 
 Introdução ao Git e ao GitHub
 
@@ -26,7 +26,7 @@ Desenvolvimento básico em Java
 
 Introdução a orientação a objetos com Java
 
-Estrutura de dados em Java
+<a href="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/README.md">Estrutura de dados em Java</a>
 
 Primeiros passos em Java
 
