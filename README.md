@@ -12,7 +12,7 @@ Bem-vindo à DIO
 
 Lógica de Programação Essencial
 
-Aprenda o que são Estrutura de Dados e Algoritmos
+<a href="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/README.md">Aprenda o que são Estrutura de Dados e Algoritmos</a>
 
 Introdução ao Git e ao GitHub
 
