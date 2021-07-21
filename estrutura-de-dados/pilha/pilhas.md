@@ -3,7 +3,7 @@
 <p>Regra básica desse tipo de estrutura de dados:
 <ul>LIFO - Last in, First Out</ul></p><br/>
 
-<img src="./imgs/img3.png" height="480" width="750">
+<img src="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/imgs/img3.png" height="480" width="750">
 
 <p></p><br/>
 
