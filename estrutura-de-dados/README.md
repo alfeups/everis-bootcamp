@@ -2,8 +2,8 @@
 
 2 <a href="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/pilha/pilhas.md">Pilhas [LIFO: Last In, First Out]</a>
 
-3 Filas [FIFO: First in, First Out]
-
+3 <a href="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/fila/filas.md">Filas [FIFO: First in, First Out]</a>
+ 
 4 Listas Encadeadas
 
 5 Listas Duplamente Encadeadas
