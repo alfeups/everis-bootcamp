@@ -4,4 +4,4 @@
 
 <p> FIFO - First In, First Out</p>
 
-<img src="./imgs/img8.png" height="400" width="650" >
+<img src="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/imgs/img8.png" height="400" width="650" >
