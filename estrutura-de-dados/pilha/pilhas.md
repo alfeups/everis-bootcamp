@@ -10,27 +10,27 @@
 ## Método Top
 <p>Não exlui, copia a referência do nó que está no topo</p><br/>
 
-<img src="./imgs/img4.png" height="480" width="750">
+<img src="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/imgs/img4.png" height="480" width="750">
 
 <p></p><br/>
 
 ## Método Pop
 <p>Tira o primeiro nó da pilha.</p><br/>
 
-<img src="./imgs/img5.png" height="480" width="750">
+<img src="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/imgs/img5.png" height="480" width="750">
 
 <p></p><br/>
 
 ## Método Push
 <p>Adiciona um nó ao topo da pilha.</p><br/>
 
-<img src="./imgs/img6.png" height="480" width="750">
+<img src="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/imgs/img6.png" height="480" width="750">
 
 <p></p><br/>
 
 ## Método isEmpty
 <p>Checa se um nó está vazio.</p><br/>
 
-<img src="./imgs/img6.png" height="480" width="750">
+<img src="https://github.com/alfeups/everis-bootcamp/blob/master/estrutura-de-dados/imgs/img7.png" height="480" width="750">
 
 <p></p><br/>
