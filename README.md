@@ -32,7 +32,7 @@ Primeiros passos em Java
 
 Fundamentos de Arquitetura de Sistemas
 
-Arquitetura de Sistemas Avançado
+<a href="https://github.com/alfeups/estudos-dio#arquitetura-de-sistemas">Arquitetura de Sistemas Avançado</a>
 
 Introdução ao framework Spring Boot
 
